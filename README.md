@@ -8,12 +8,12 @@ Information taken from [Interaction Design Foundation](https://www.interaction-d
 </br>
 </br>
 I started by researching affordances and refreshing my memory on terms related to interaction design. Here are some notes I took:
-1. Intuitive everyday design is design that needs no explanation; Affordances make design intuitive.
+1. Intuitive everyday design is design that needs no explanation; affordances make design intuitive.
 2. It's not sufficient for design to be rational and logical. Affordances direct the perception of possibilities for action and provide strong clues to the operation of things. *Clickable*, buttons, tabs, *draggable*, sliders, *spinnable*...
 An affordance is an **action possibility in the relation between a user and an object.**
 
-**Affordances**: defines and determines what actions are possible for an agent.
-**Signifiers**: specifies how people discover those possibilities and communicates where the action should take place. Signs and signals that help people act in a way they can operate the physical or digital product.
+**Affordances**: defines and determines what actions are possible for an agent.<br>
+**Signifiers**: specifies how people discover those possibilities and communicates where the action should take place. Signs and signals that help people act in a way they can operate the physical or digital product.<br>
 **Perceived affordances**: Some signifiers are simply the perceived affordance; the signifier is part of the structure of the physical or digital product. Example: a doorknob.  
 
 #### Early brainstorm
