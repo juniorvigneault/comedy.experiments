@@ -1,5 +1,5 @@
 # Comedy Experiments
-A collection of short experiments focusing on how affordances of interaction design and online GUI interfaces can be re-oriented for comedy.
+A collection of short experiments focusing on how interaction design affordances and online GUI interfaces can be re-oriented for comedy.
 
 
 ### June 6 2022 - Initial thoughts and ideas
