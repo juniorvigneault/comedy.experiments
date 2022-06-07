@@ -4,7 +4,8 @@ A collection of short experiments focusing on how affordances of interaction des
 
 ### June 6 2022 - Initial thoughts and ideas
 #### Notes on interaction design
-Information from [Interaction Design Foundation](https://www.interaction-design.org/)
+Information taken from [Interaction Design Foundation](https://www.interaction-design.org/)
+</br>
 I started by researching affordances and refreshing my memory on terms related to interaction design. Here are some notes I took:
 1. Intuitive everyday design is design that needs no explanation; Affordances make design intuitive.
 2. It's not sufficient for design to be rational and logical. Affordances direct the perception of possibilities for action and provide strong clues to the operation of things. *Clickable*, buttons, tabs, *draggable*, sliders, *spinnable*...
