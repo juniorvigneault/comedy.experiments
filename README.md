@@ -41,12 +41,17 @@ Another problem I have is that when the form reactions are smooth, it doesn't qu
 
 I think for this first exercise I'll focus on the typing part. And maybe the next weeks I could focus on the other parts, and have a complete experience in the end... That could be something.
 
-### June 14 2022
+### June 14 2022 (morning)
+
 List of things I want to do to make this thing more interesting (before next Monday):
 - [ ] Have more sounds available when typing and make them longer
 - [ ] Add a laughing sound when resizing window
-- [ ] Add more questions in the form with different UI elements (checklists etc...)
+- [x] Add more questions in the form with different UI elements (checklists etc...)
 - [ ] Use different effects like wiggling
-- [ ] Find an intro like clicking on something to open the box
+- [x] Find an intro like clicking on something to open the box
 - [ ] Make a climax (ending)
+- [ ] Make code more efficient
 - [ ] Music?
+
+### June 14 2022 (afternoon)
+I added a couple more possible UI elements and placed them in the dialog box. I ordered them thinking of how it could build in intensity. I will try adding sounds and effects to these UI elements tomorrow, but I'm already more confident about how this is turning out. I think adding more possibilities will help a lot. I'm still not sure about the whole context though. I made it about working in an office but why would such a form be sexual? This is the thing that doesn't work for me... 
