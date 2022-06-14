@@ -40,3 +40,13 @@ It's going good, but I was wondering if the thing would feel more complete with 
 Another problem I have is that when the form reactions are smooth, it doesn't quite work with the typing in stuff, because when you type fast, the form takes too much time to react and accumulates the responses, so when the user is no longer interacting with it it continues to react. I think typing should be near the end of the form, which means that it should be a longer form with different user interactions. Starting with interactions that take more time, like choosing options, or something else... Maybe it could be a quiz? A survey? I like that it starts smooth and becomes more and more sexual.
 
 I think for this first exercise I'll focus on the typing part. And maybe the next weeks I could focus on the other parts, and have a complete experience in the end... That could be something.
+
+### June 14 2022
+List of things I want to do to make this thing more interesting (before next Monday):
+- [ ] Have more sounds available when typing and make them longer
+- [ ] Add a laughing sound when resizing window
+- [ ] Add more questions in the form with different UI elements (checklists etc...)
+- [ ] Use different effects like wiggling
+- [ ] Find an intro like clicking on something to open the box
+- [ ] Make a climax (ending)
+- [ ] Music?
