@@ -21,50 +21,45 @@
 <body>
   <!-- HTML would go here if needed. -->
   <div class="icon">
-    <button type="button" name="iconButton" id="iconButton">OPEN</button>
+    <button type="button" name="iconButton" id="iconButton">OPEN ME ❤️ </button>
   </div>
-  <div id="dialog-form" title="New Employee Form">
+  <div id="dialog-form" title="Sample Form">
     <p class="validateTips" id="important">All form fields are required.</p>
     <form>
       <fieldset>
-        <legend>Select Office Location: </legend>
+        <legend>Select  one option </legend>
         <br>
-        <label for="radio-1">New York</label>
+        <label for="radio-1">Option 1</label>
         <input type="radio" name="radio-1" id="radio-1">
-        <label for="radio-2">Paris</label>
+        <label for="radio-2">Option 2</label>
         <input type="radio" name="radio-1" id="radio-2">
-        <label for="radio-3">Montreal</label>
+        <label for="radio-3">Option 3</label>
         <input type="radio" name="radio-1" id="radio-3">
       </fieldset>
 
       <fieldset>
-        <label for="speed">Select a Title</label>
+        <label for="speed">Select a value</label>
         <br>
-        <select name="speed" id="speed">
-          <option>Office Manager</option>
-          <option>Executive Assistant</option>
-          <option selected="selected">Marketing Specialist</option>
-          <option>Database Administrator</option>
-          <option>Sales Associate</option>
+        <select name="speed" id="speed" class="text ui-widget-content ui-corner-all">
+          <option selected="selected" value="0">0</option>
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
         </select>
         <br>
-        <p>
-          <label for="spinner">Years of Experience:</label>
+        <!-- <p>
+          <label for="spinner">Select a Value</label>
           <br>
           <input id="spinner" name="value">
-        </p>
+        </p> -->
 
-        <p>Date of Birth:
-          <br>
-          <br>
-          <input type="text" id="datepicker"></p>
+        <p>Select a Date </p>
+          <input type="text" id="datepicker" name="datepicker"></p>
         <fieldset>
-          <label for="name">Name</label>
-          <input type="text" name="name" id="name" value="" class="text ui-widget-content ui-corner-all">
-          <label for="email">Email</label>
-          <input type="text" name="email" id="email" value="" class="text ui-widget-content ui-corner-all">
-          <label for="password">Password</label>
-          <input type="password" name="password" id="password" value="" class="text ui-widget-content ui-corner-all">
+          <label for="name">Enter Some Information</label>
+          <br>
+          <!-- <input type="text" name="name" id="inputBox" value="" class="text ui-widget-content ui-corner-all"> -->
+          <textarea name="name" rows="8" cols="68" id="inputBox" class="text ui-widget-content ui-corner-all" maxlength="50"></textarea>
           <!-- Allow form submission with keyboard without duplicating the dialog button -->
         </fieldset>
     </form>

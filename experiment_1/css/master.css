@@ -19,6 +19,13 @@ h1 {
   margin: .6em 0;
 }
 
+textarea {
+  resize: none;
+}
+
+#speed {
+  width: 100px;
+}
 div#users-contain {
   width: 350px;
   margin: 20px 0;
